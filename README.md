@@ -4,7 +4,8 @@
 ![rank](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/rizalarkana77/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532-rebuild/rank.svg)
 ![reward](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/rizalarkana77/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532-rebuild/reward.svg)
 
-Entry for make.fun's **Pump.fun Sharpe Sprint — Cleanest Paper Bot Wins**.
+Entry for make.fun's **Pump.fun Sharpe Sprint — Cleanest Paper Bot Wins**
+([bounty page](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?ref=9f4fsyjb)).
 Places go by hourly Sharpe ratio on a 6-hour forward pump.fun replay, so
 this bot is built for a smooth equity curve rather than a lucky moonshot:
 many small identical trades, quick exits, and a hard ceiling on how much
